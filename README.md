@@ -1,15 +1,31 @@
 ## InterviewUniversity Learning Recorder
 
 ### 目录
+#### 1. 基础知识
+✅ 1. 这是 (2016.11.05)  
+✅ 2. 为何要用到它  
+✅ 3. 如何使用它  
+✅ 4. 拥有一名 Googler 的心态  
+✅ 5. 我得到了工作吗  
+✅ 6. 跟随着我  
+✅ 7. 不要自以为自己足够聪明  
 
-- ✅ 这是 (2016.11.05)
-- ✅ 为何要用到它
-- ✅ 如何使用它
-- [ ] 拥有一名-googler-的心态
-- [ ] 我得到了工作吗
-- [ ] 跟随着我
-- [ ] 不要自以为自己足够聪明
-- [ ] 关于-google
+- [ ] 8. 关于 Google
+	- [ ] 面向学生 —— [Google 的职业生涯：技术开发指导](https://www.google.com/about/careers/students/guide-to-technical-development.html)
+	- [ ] Google 检索的原理：
+	    - [ ] [Google 检索的发展史（视频）](https://www.youtube.com/watch?v=mTBShTwCnD4)
+	    - [ ] [Google 检索的原理 —— 故事篇](https://www.google.com/insidesearch/howsearchworks/thestory/)
+	    - [ ] [Google 检索的原理](https://www.google.com/insidesearch/howsearchworks/)
+	    - [ ] [Google 检索的原理 —— Matt Cutts（视频）](https://www.youtube.com/watch?v=BNHR6IQJGZs)
+	    - [ ] [Google 是如何改善其检索算法（视频）](https://www.youtube.com/watch?v=J5RZOU6vK4Q)
+	- [ ] 系列文章：
+	    - [ ] [Google 检索是如何处理移动设备](https://backchannel.com/how-google-search-dealt-with-mobile-33bc09852dc9)
+	    - [ ] [Google 为了寻找大众需求的秘密研究](https://backchannel.com/googles-secret-study-to-find-out-our-needs-eba8700263bf)
+	    - [ ] [Google 检索将成为你的下一个大脑](https://backchannel.com/google-search-will-be-your-next-brain-5207c26e4523)
+	    - [ ] [Demis Hassabis 的心灵直白](https://backchannel.com/the-deep-mind-of-demis-hassabis-156112890d8a)
+	- ✅ [书籍：重新定义公司 (How Google Works)](https://book.douban.com/subject/26582822/)
+	- [ ] [由 Google 通告所制作 —— 2016年10月（视频）](https://www.youtube.com/watch?v=q4y0KOeXViI)
+
 - [ ] 相关视频资源
 - [ ] 面试过程 & 通用的面试准备
 - [ ] 为你的面试选择一种语言
@@ -58,7 +74,7 @@
 - [ ] 问面试官的问题
 - [ ] 当你获得了梦想的职位
 
----------------- 下面的内容是可选的 ----------------
+#### 2. 附加知识
 
 - [ ] 附加的学习
     - [ ] Unicode
