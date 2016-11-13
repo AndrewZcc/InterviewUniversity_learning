@@ -2,15 +2,15 @@
 
 ### 目录
 #### 1. 基础知识
-✅ 1. 这是 (2016.11.05)  
-✅ 2. 为何要用到它  
-✅ 3. 如何使用它  
-✅ 4. 拥有一名 Googler 的心态  
-✅ 5. 我得到了工作吗  
-✅ 6. 跟随着我  
-✅ 7. 不要自以为自己足够聪明  
+✅ 1. What is it? 这是? (2016.11.05)  
+✅ 2. Why use it? 为何要用到它?  
+✅ 3. How to use it? 如何使用它?  
+✅ 4. Get in a Google Mood | 拥有一名 Googler 的心态  
+✅ 5. Did I Get the job? | 我得到了工作吗  
+✅ 6. Follow Along with Me | 跟着我  
+✅ 7. Don't feel you aren't smart enough | 不要自以为自己足够聪明  
 
-- [ ] 8. 关于 Google
+- [ ] 8. About Google | 关于 Google
 	- [ ] 面向学生 —— [Google 的职业生涯：技术开发指导](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 	- [ ] Google 检索的原理：
 	    - [ ] [Google 检索的发展史（视频）](https://www.youtube.com/watch?v=mTBShTwCnD4)
@@ -26,86 +26,91 @@
 	- ✅ [书籍：重新定义公司 (How Google Works)](https://book.douban.com/subject/26582822/)
 	- [ ] [由 Google 通告所制作 —— 2016年10月（视频）](https://www.youtube.com/watch?v=q4y0KOeXViI)
 
-- [ ] 相关视频资源
-- [ ] 面试过程 & 通用的面试准备
-- [ ] 为你的面试选择一种语言
-- [ ] 在你开始之前
-- [ ] 你所看不到的
-- [ ] 日常计划
-- [ ] 必备知识
-- [ ] 算法复杂度 / Big-O / 渐进分析法
-- [ ] 数据结构
+- [ ] About Video Resources | 相关视频资源
+- [ ] Interview Process & General Interview Prep | 面试过程 & 通用的面试准备
+- [ ] Pick One Language for the Intervew | 为你的面试选择一种语言
+- [ ] Before you Get Started | 在你开始之前
+- [ ] What you Won't See Covered | 你所看不到的
+- [ ] Prerequisite Knowledge | 预备知识
+- [ ] The Daily Plan | 日常计划
+- [ ] Algorithmic complexity / Big-O / Asymptotic analysis | 算法复杂度 / Big-O / 渐进分析法
+- [ ] Data Structures | 数据结构
     - [ ] 数组（Arrays）
     - [ ] 链表（Linked Lists）
     - [ ] 堆栈（Stack)
     - [ ] 队列（Queue)
     - [ ] 哈希表（Hash table）
-- [ ] 更多的知识
+- [ ] More Knowledge | 更多的知识
     - [ ] 二分查找（Binary search）
-    - [ ] 按位运算（Bitwise operations）
-- [ ] 树（Trees）
-    - [ ] 树 —— 笔记 & 背景
-    - [ ] 二叉查找树（Binary search trees）：BSTs
-    - [ ] 堆（Heap） / 优先级队列（Priority Queue） / 二叉堆（Binary Heap）
-    - [ ] 字典树（Tries）
-    - [ ] 平衡查找树（Balanced search trees）
+    - [ ] 位运算（Bitwise operations）
+- [ ] Trees | 树
+    - [ ] Trees - Notes & Background | 树 —— 笔记 & 背景
+    - [ ] Binary search trees：BSTs | 二叉查找树
+    - [ ] Heap / Priority Queue / Binary Heap | 堆/优先级队列/二叉堆
+    - [ ] Tries | 字典树
+    - [ ] Balanced Search Trees | 平衡搜索树
     - [ ] N 叉树（K 叉树、M 叉树）
-- [ ] 排序（Sorting）
-- [ ] 图（Graphs）
-- [ ] 更多知识
-    - [ ] 递归（Recursion）
-    - [ ] 动态规划（Dynamic-programming）
-    - [ ] 组合 & 概率：组合（Combinatorics）(n中选k个) & 概率（Probability）
+- [ ] Sorting | 排序
+- [ ] Graphs | 图
+- [ ] Even More Knowledge | 更多知识
+    - [ ] Recursion | 递归
+    - [ ] Dynamic-programming | 动态规划
+    - [ ] Combinatorics (n choose k) & Probability | 组合(n选k) & 概率
     - [ ] NP, NP-完全和近似算法
-    - [ ] 缓存（Cache）
-    - [ ] 进程和线程
-    - [ ] 系统设计、可伸缩性、数据处理
-    - [ ] 论文
-    - [ ] 测试
-    - [ ] 调度
-    - [ ] 实现系统例程
-    - [ ] 字符串搜索和操作
-- [ ] 终面
-- [ ] 书籍
-- [ ] 编码练习和挑战
-- [ ] 当你临近面试时
-- [ ] 你的简历
-- [ ] 当面试来临的时候
-- [ ] 问面试官的问题
-- [ ] 当你获得了梦想的职位
+    - [ ] Caches | 缓存
+    - [ ] Processes and Threads | 进程和线程
+    - [ ] System Design, Scalability, Data Handling | 系统设计、可伸缩性、数据处理
+    - [ ] Papers | 论文
+    - [ ] Testing | 测试
+    - [ ] Scheduling | 调度
+    - [ ] Implement system routines | 实现系统例程
+    - [ ] String searching & manipulations | 字符串搜索及其操作
+- [ ] Final Review | 终面
+- [ ] Coding Question Practice | 编码问题练习
+- [ ] Coding Exercises & Challenges | 编码练习和挑战
+- [ ] Once you're closer to the interview | 当你临近面试时
+- [ ] Your Resume | 你的简历
+- [ ] Be thinking of for when the interview comes | 当面试来临时想想这些
+- [ ] Have quesitons for the interviewer | 问面试官的问题
+- [ ] Once you've Got The Job | 当你获得了梦想的职位
 
 #### 2. 附加知识
-
-- [ ] 附加的学习
+- [ ] Additional Books | 附加书单
+- [ ] Additional Learning | 附加知识
+    - [ ] Compilers | 编译器
+    - [ ] Floating Point Numbers | 浮点数
     - [ ] Unicode
-    - [ ] 字节顺序
+    - [ ] Endianness | 字节顺序 (大端规则,小端规则)
     - [ ] Emacs and vi(m)
-    - [ ] Unix 命令行工具
-    - [ ] 信息资源 (视频)
-    - [ ] 奇偶校验位 & 汉明码 (视频)
-    - [ ] 系统熵值系统复杂度
-    - [ ] 密码学
-    - [ ] 压缩
-    - [ ] 网络 (视频)
-    - [ ] 计算机安全
-    - [ ] 释放缓存
-    - [ ] 并行/并发编程
-    - [ ] 设计模式
-    - [ ] 信息传输, 序列化, 和队列化的系统
-    - [ ] 快速傅里叶变换
-    - [ ] 布隆过滤器
+    - [ ] **Unix command line tools | Unix 命令行工具**
+    - [ ] Information theory | 信息论 (视频)
+    - [ ] Parity & Hamming Code | 奇偶校验位 & 汉明码 (视频)
+    - [ ] Entropy | 系统熵值,系统复杂度
+    - [ ] Cryptography | 密码学
+    - [ ] Compression | 压缩
+    - [ ] **Networking | 网络 (视频)**
+    - [ ] Computer Security | 计算机安全
+    - [ ] **Garbage collection | 垃圾回收**
+    - [ ] Parallel Programming | 并行/并发编程
+    - [ ] Design Patterns | 设计模式
+    - [ ] Messaging, Serialization, and Queueing Systems | 消息, 序列化, 和队列系统
+    - [ ] Fast Fourier Transform | 快速傅里叶变换
+    - [ ] Bloom Filter | 布隆过滤器
+    - [ ] HyperLogLog | 一种用于做基数统计的算法
+    - [ ] Locality-Sensitive Hashing | 局部敏感哈希
     - [ ] van Emde Boas 树
-    - [ ] 更深入的数据结构
-    - [ ] 跳表
-    - [ ] 网络流
-    - [ ] 不相交集 & 联合查找
-    - [ ] 快速处理数学
-    - [ ] 树堆 (Treap)
-    - [ ] 线性规划
-    - [ ] 几何：凸包（Geometry, Convex hull）
-    - [ ] 离散数学
-    - [ ] 机器学习（Machine-learning）
-    - [ ] Go 语言
-- [ ] 一些主题的额外内容
-- [ ] 视频系列
-- [ ] 计算机科学课程
+    - [ ] Augmented Data Structures | 增广数据结构
+    - [ ] k-D Trees
+    - [ ] Skip lists | 跳跃表
+    - [ ] Network Flows | 网络流
+    - [ ] **Disjoint Sets & Union Find | 并查集与联合查找操作**
+    - [ ] Math for Fast Processing | 快速处理
+    - [ ] Treap | 树堆
+    - [ ] **Linear Programming | 线性规划**
+    - [ ] Geometry, Convex hull | 几何：凸包
+    - [ ] Discrete math | 离散数学
+    - [ ] Machine Learning | 机器学习
+    - [ ] Go | Go 语言
+- [ ] Additionnal Detail on Some Subjects | 一些主题的额外内容
+- [ ] Video Series | 视频系列
+- [ ] Computer Science Courses | 计算机科学课程
